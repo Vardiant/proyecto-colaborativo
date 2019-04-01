@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 //Tengo una propuesta para volver a llamarle al proyecto: proyecto_colaboratiovo
  printf("Hola chicos, vamos a tratar de mejorar este cagao de programa");
@@ -40,3 +41,6 @@ return 0;
 	printf("Te llamas %s, y tienes %d , tu telefono es %d y tu direccion es €d", nombre , edad, telefono, direccion);
 
 }
+=======
+
+
