@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main ()
+{
+	int numero;
+	printf ("Escribe un número: ");
+	scanf ("%d", &numero);
+
+	if (numero%2 == 0)
+		printf (" es par.");
+	else 
+		printf( " es impar");
+	return 0;
+}	
