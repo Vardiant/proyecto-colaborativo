@@ -1,0 +1,21 @@
+#include <stdio.h>
+int main ()
+
+{
+		double n1, n2, resultado;
+		printf ("Multiplica un número por otro...\n");
+		
+		//Almacena dos números decimales en la variable n1 y n2//
+		scanf ("%lf %lf", &n1, &n2);
+
+		//Realiza la multiplicación y almacena el resultado en una variable nueva//
+		resultado = n1 * n2;
+
+		//Resultado incluyendo dos números decimalesusando %.2lf//
+		printf ("El resultado de tu multiplicación es = %.2lf", resultado);
+
+		printf ("\n\nGracias por participar.\n");
+
+		return 0;
+}
+
