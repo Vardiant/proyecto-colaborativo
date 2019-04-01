@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Tengo una propuesta para volver a llamarle al proyecto: proyecto_colaboratiovo
  printf("Hola chicos, vamos a tratar de mejorar este cagao de programa");
   input();  
 int main ()
